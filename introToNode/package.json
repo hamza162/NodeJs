@@ -1,0 +1,22 @@
+{
+  "name": "introtonode",
+  "version": "1.0.0",
+  "description": "\"intro to node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hamza162/NodeJs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "hamza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza162/NodeJs/issues"
+  },
+  "homepage": "https://github.com/hamza162/NodeJs#readme"
+}
